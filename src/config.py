@@ -27,6 +27,6 @@ REDIS_HOST = "redis"
 REDIS_PORT = 6379
 REDIS_PASSWORD = None
 
-TOKEN = None
+TOKEN = Nzk1NzQ5NzAzNzgxNTgwODIw.X_N5qQ.u0AnZjQaBtLRDqwdeQ5lXr49fJ8
 
 BLOXLINK_GUILD = None # your guild ID, used to load nitro boosters and other data
